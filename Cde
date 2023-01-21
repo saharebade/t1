@@ -1,0 +1,6 @@
+List_Num=[]
+Num=int(input("Enter Number:"))
+While(x!=0):
+  List_Num.append(Num)
+  Num=int(input("Enter Num"))
+ print(List_Num)
